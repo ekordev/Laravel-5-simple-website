@@ -28,15 +28,12 @@
 					</div>
 					<div class="col-md-6 col-md-pull-6">
 						<div class="desc">		
-<p googl="true">A plumbing emergency in your home is never expected and, depending on the
-	 severity, may have a devastating effect. You love your home and all its
-	 fixtures, and you are well aware of the destructive potential of water.</p>
+<p googl="true">A plumbing emergency in your business is never expected and, depending on the
+	 severity, may have a devastating effect. </p>
 <p>
-	If a plumbing emergency strikes and threatens to damage your living space,
+	If a plumbing emergency strikes and threatens to damage your place of business,
 	<strong googl="true">it’s important to have access to a highly qualified emergency plumber</strong>. The sooner a professional is on the way, the better chance you’ll
 	 have of minimizing damage and getting things back to normal.
-	<a href="/about-us/">Dial One Sonshine</a> will send one of our experts out immediately to take control of the situation.
-	 Every second counts during a plumbing emergency, so don’t waste any time.
 </p>
 			</div>
 		</div>

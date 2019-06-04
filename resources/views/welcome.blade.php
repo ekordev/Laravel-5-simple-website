@@ -12,8 +12,8 @@
                     <div class="display-tc animate-box" data-animate-effect="fadeIn">
                         <h1>San Fernando Valley Full Service
                             <strong>Plumbing Experts</strong></h1>
-                            <p>Call for a quote</p>
-                            <p>For an accurate price</p>
+                            <p style="color:red">Call for a quote</p>
+                            <p style="color:red">For an accurate price</p>
                         <p><a href="{{URL::to('/contact')}}" class="btn btn-primary btn-lg with-arrow">Shedule a visit</a></p>
                     </div>
                 </div>
@@ -32,7 +32,7 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="iphone">
-                    <img class="img-responsive" src="images/root.jpg" alt="iphone">
+                    <img class="img-responsive" src="images/root.jpg" alt="deluxe rooter">
                 </div>
             </div>
         </div>
