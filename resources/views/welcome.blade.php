@@ -32,11 +32,19 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="iphone">
-                    <img class="img-responsive" src="images/root.jpg" alt="deluxe rooter">
+                    <img class="img-responsive media-right" src="images/root.jpg" alt="deluxe rooter">
                 </div>
             </div>
-        </div>
+        <div class="col-md-12 col-sm-12">
+                <div class="feature-center animate-box" data-animate-effect="fadeIn">
+                    <span class="icon">
+                        <i class="icon-chat"></i>
+                    </span>
+                    <h3>Hablamos espanol</h3>
+                </div>
+</div>
     </div>
+</div>
 </div>
             
 
