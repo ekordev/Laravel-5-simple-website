@@ -8,8 +8,9 @@
             <div class="col-md-8 col-md-offset-2 text-center">
                 <div class="display-t">
                     <div class="display-tc animate-box" data-animate-effect="fadeIn">
-                        <h1>Contact Us</h1>
-                        <h2>This is developed by <a href="http://sonusindhu.com" target="_blank">Sonu Sindhu</a></h2>
+                        <h1>Schedule a visit</h1>
+                        <p>Fill out our form &amp; we'll be in touch shortly.</p>
+                        <p>If you need immediate assistance <a href="tel:18188900606">Call Us</a></p>
                     </div>
                 </div>
             </div>
@@ -25,53 +26,40 @@
                 <div class="fh5co-contact-info">
                     <h3>Contact Information</h3>
                     <ul>
-                        <li class="address">198 West 21th Street, <br> Suite 721 New York NY 10016</li>
-                        <li class="phone"><a href="tel://1234567920">+ 1235 2355 98</a></li>
-                        <li class="email"><a href="mailto:info@yoursite.com">info@yoursite.com</a></li>
-                        <li class="url"><a href="http://gettemplates.co">gettemplates.co</a></li>
+                        <li class="phone"><a href="tel://18188900606">+1 818-890-0606</a></li>
+                        <li class="email"><a href="mailto:info@deluxerooter.com">info@deluxerooter.com</a></li>
                     </ul>
                 </div>
 
             </div>
             <div class="col-md-6 animate-box">
-                <h3>Get In Touch</h3>
-                <form action="#">
-                    <div class="row form-group">
+                <h3>Schedule a visit</h3>
+                <form method="post" name="myemailform" action="/form-to-email.php">
+                        <div class="row form-group">
                         <div class="col-md-6">
                             <!-- <label for="fname">First Name</label> -->
-                            <input type="text" id="fname" class="form-control" placeholder="Your firstname">
-                        </div>
-                        <div class="col-md-6">
-                            <!-- <label for="lname">Last Name</label> -->
-                            <input type="text" id="lname" class="form-control" placeholder="Your lastname">
+                            <input type="text" id="name" class="form-control" placeholder="Your firstname">
                         </div>
                     </div>
 
                     <div class="row form-group">
                         <div class="col-md-12">
                             <!-- <label for="email">Email</label> -->
-                            <input type="text" id="email" class="form-control" placeholder="Your email address">
+                            <input type="text" id="email" class="form-control" placeholder="Your phone number">
                         </div>
                     </div>
-
-                    <div class="row form-group">
-                        <div class="col-md-12">
-                            <!-- <label for="subject">Subject</label> -->
-                            <input type="text" id="subject" class="form-control" placeholder="Your subject of this message">
-                        </div>
-                    </div>
-
                     <div class="row form-group">
                         <div class="col-md-12">
                             <!-- <label for="message">Message</label> -->
-                            <textarea name="message" id="message" cols="30" rows="10" class="form-control" placeholder="Say something about us"></textarea>
+                            <textarea name="message" id="message" cols="30" rows="10" class="form-control" placeholder="Tell us about the issue your having"></textarea>
                         </div>
                     </div>
                     <div class="form-group">
                         <input type="submit" value="Send Message" class="btn btn-primary">
                     </div>
 
-                </form>		
+                </form>	
+            
             </div>
         </div>
 

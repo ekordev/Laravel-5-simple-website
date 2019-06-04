@@ -21,5 +21,27 @@ class HomeController extends Controller
     public function portfolio(){
         return view('portfolio' );
     }
+    public function emergency(){
+        return view('emergency' );
+    }
+    public function commercial(){
+        return view('commercial' );
+    }
+    public function waterheater(){
+        return view('waterheater' );
+    }
+    public function sewer(){
+        return view('sewer' );
+    }
+    public function camera(){
+        return view('camera' );
+    }
+    public function drain(){
+        return view('drain' );
+    }
+    public function kitchenbath(){
+        return view('kitchenbath' );
+    }
     
+        
 }

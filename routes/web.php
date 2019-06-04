@@ -20,4 +20,10 @@ Route::get('/about', 'HomeController@about');
 Route::get('/contact', 'HomeController@contact');
 Route::get('/services', 'HomeController@services');
 Route::get('/portfolio', 'HomeController@portfolio');
-
+Route::get('/emergency', 'HomeController@emergency');
+Route::get('/commercial', 'HomeController@commercial');
+Route::get('/waterheater', 'HomeController@waterheater');
+Route::get('/sewer', 'HomeController@sewer');
+Route::get('/camera', 'HomeController@camera');
+Route::get('/drain', 'HomeController@drain');
+Route::get('/kitchenbath', 'HomeController@kitchenbath');
